@@ -1,5 +1,5 @@
--git add .
-﻿git commit  -m "คอมเม้นต์"
+git add .
+git commit  -m "คอมเม้นต์"
 
 git push -u origin master (-u first time)
 git push นำไฟล์จาก repository ขึ้นไปยัง github
